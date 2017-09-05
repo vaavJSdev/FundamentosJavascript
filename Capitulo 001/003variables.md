@@ -35,14 +35,32 @@ frutas = [pera,manzana,naranja] // Le asigno a frutas el arreglo que contiene el
 
 ## ¿Como declarar variables en JavaScript?
 
-Declarar es presentarle a tu codigo las variables que deseas utilizar y lo podemos hacer de tres posibles maneras:
+**Declarar** es presentarle a tu codigo las variables que deseas utilizar, luego ya puedes llamarlas, pero es necesario asignarles un valor, si hablamos de manera general esta seria la estructura que debe llevar:
 
-## usando var
+```
+palabraReservada nombreDeLaVariable = valor
+```
+
+## Declaracion de Variables Usando ```var```
 
 Para declarar una variable usando ```var``` basta solo escribir de esta manera:
 
 ```
+var curso;
+```
+
+Luego podremos asignarle su valor: 
+
+```
+curso = "JavaScript";
+
+```
+
+O podriamos hacerlo todo en una unica *sentencia*:
+
+```
 var curso = "JavaScript";
+
 ```
 
 Notamos que:
@@ -51,8 +69,6 @@ Notamos que:
 - Escribimos el nombre de la variable *curso* en este caso.
 - Colocamos el operador de *asignacion*.
 - Colocamos el valor, usamos comillas dobles ("") para asignar en este caso por ser una cadena de texto.
-
-
 
 ## usando let
 
