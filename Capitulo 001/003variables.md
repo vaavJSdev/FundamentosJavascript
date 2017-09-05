@@ -24,16 +24,14 @@ Ahora veamos que es una constante
 palabraReservada nombreDeLaVariable;
 ```
 
-Veamos algunos ejemplos, *abre tu consola y comenzemos*
+Veamos algunos ejemplos, *abre tu consola y comenzemos*.
 
-escribre lo siguiente:
+Escribre lo siguiente:
 
 
 ```javascript
 var javascript;
 ```
-
-
 
 # Asignando valores en JavaScript
 
@@ -44,26 +42,19 @@ Para asignarle un valor a una variable utilizamos el siguiente operador:
 ```
 Generalmente para nosotros puede significar es igual, pero este es otro operador, de ahora en adelante significara **asignar**
 
-Veamos un ejemplo
-
-```
-numero = 5 // Le asigno 5 a numero, ahora numero contiene el valor 5
-hola = "Hola, buen dia" // Le asigno Hola, buen dia a hola, ahora hola contiene el valor Hola, buen dia
-frutas = [pera,manzana,naranja] // Le asigno a frutas el arreglo que contiene el valor [pera,manzana,naranja]
-
-```
-
-
-## Declaracion de Variables Usando ```var```
-
-Para declarar una variable usando ```var``` basta solo escribir de esta manera:
+Veamos un ejemplo:
 
 ```javascript
-var curso;
+
+var numero = 5 // Le asigno 5 a numero, ahora numero contiene el valor 5
+
+var hola = "Hola, buen dia" // Le asigno Hola, buen dia a hola, ahora hola contiene el valor Hola, buen dia
+
+var frutas = [pera,manzana,naranja] // Le asigno a frutas el arreglo que contiene el valor [pera,manzana,naranja]
+
 ```
 
 Hemos declarado una variable llamada *curso*, ya javascript habra reservado espacio para guardar el valor que le asignemos.
-
 
 Pobremos asignadle un valor: 
 
@@ -96,17 +87,3 @@ Notamos que:
 - Escribimos el nombre de la variable *curso* en este caso.
 - Colocamos el operador de *asignacion*.
 - Colocamos el valor, usamos comillas dobles ("") para asignar en este caso por ser una cadena de texto.
-
-## Declaración de variables usando ```let```
-
-Seguimos la misma estructura general:
-
-```javascript
-let curso = "JavaScript";
-
-```
-
-## ¿Que diferencia este metodo del anterior?
-
-Cuando usamos la palabra reservada ```let``` para declarar una variable esta tendra un *scope* local, a diferencia de ```var``` que es *global*
-
