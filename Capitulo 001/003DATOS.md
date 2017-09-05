@@ -1,8 +1,8 @@
-#Tipos de Datos
+# Tipos de Datos
 
 JavaScript posee dos tipos de datos primitivos y complejos o referenciados:
 
-#Primitivos:
+# Primitivos:
 
 - *string*.
 - *number*.
@@ -10,20 +10,24 @@ JavaScript posee dos tipos de datos primitivos y complejos o referenciados:
 - *null*.
 - *undefined*.
 
-#Complejos:
+# Complejos:
+Son una librería estándar de objetos, todos provienen del Objeto ```Object```
 
 - **Object**.
 - **Symbol**.
 - **Array**.
 - **Function**.
-*Notece la inicial en mayuscula*
-- **String**.
-- **Number**.
-- **Boolean**.
 - **Date**.
 - **RegExp**.
 - **Error**.
-- **Math**.
+- **Math**
+
+*Notece la inicial en mayuscula de los siguientes tipos de datos*:
+
+- **String**.
+- **Number**.
+- **Boolean**.
+.
 
 #Profundizando cada uno:
 
