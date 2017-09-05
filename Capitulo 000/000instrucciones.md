@@ -12,8 +12,8 @@ Tendremos la siguiente estructura:
     - Indice de contenidos
     > 000indice.md
     
-    - Enlaces hacia recursos multimedia interes
-    > 000recursos.md
+    - Enlaces de interese
+    > 000enlacesDeInteres.md
     
     - Glosario con terminos empleados:
     > 000glosario.md
