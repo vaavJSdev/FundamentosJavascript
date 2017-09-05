@@ -1,8 +1,8 @@
-#JavaScript: ¿Con que se come eso?
+# JavaScript: ¿Con que se come eso?
 
-#¿Que es JavaScript?
+# ¿Que es JavaScript?
 
-Es un lenguaje de programacion que tiene las siguientes caracteristicas:
+Es un lenguaje de programacion de alto nivel, multiplataforma, pequeño y liviano con las siguientes caracteristicas:
 
 - **Unico hilo (single thread)**: Solo maneja un hilo de ejecución, es decir, se dedica a funcionar unicamente en la pagina que se esta ejecutando (mas adelante se profundizara este tema).
 
@@ -27,6 +27,6 @@ Es un lenguaje de programacion que tiene las siguientes caracteristicas:
     numero = "Soy un cinco"; // Es una cadena de caracteres
     numero = {yo:"un cinco"} // Ahora un objeto.
     
--**1) Complementado por el DOM**: Como JavaScript reside en el navegador tendremos la capacidad de manipular todo el DOM(Document Object Model) a nuestro antojo, es decir, crear; modificar; y eliminar elementos HTML de nuestra web.
+- **1) Complementado por el DOM**: Como JavaScript reside en el navegador tendremos la capacidad de manipular todo el DOM(Document Object Model) a nuestro antojo, es decir, crear; modificar; y eliminar elementos HTML de nuestra web.
 
--**2) Complementado por el BOM**: Como JavaScript se ejecuta en un navegador tendremos la capacidad de abrir pestañas, mostrar ventanas emergentes, imprimir nuestra web, y acceder a las funciones que traiga el navegador.
+- **2) Complementado por el BOM**: Como JavaScript se ejecuta en un navegador tendremos la capacidad de abrir pestañas, mostrar ventanas emergentes, imprimir nuestra web, y acceder a las funciones que traiga el navegador.
