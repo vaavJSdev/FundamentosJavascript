@@ -10,10 +10,30 @@ En JavaScript deciamos que las variables eran dinamicas y debilmente tipadas per
 
 ## ¿Que es una variable?:
 
-> Una variable es un espacio de memoria reservado para almacenar un valor que corresponde a determinado tipo de dato.
-> Este valor puede cambiar, y segun el tipo de dato contenido le asignara un tipo a la variable que le contiendo.
+> Una variable es un espacio de memoria reservado para almacenar un valor que corresponde a determinado tipo de dato. Este valor puede cambiar, y segun el tipo de dato contenido le asignara un tipo a la variable que le contiendo.
 
 Ahora veamos que es una constante
+
+> Una constante al igual que la variable es un espacio de memoria reservado para almacenar un valor, la unica diferencia es que este no podra ser modificado durante la ejecución del codigo, una vez asignado un valor, este se mantendra hasta que el codigo finalice su ejecucion.
+
+## ¿Como declarar variables en JavaScript?
+
+**Declarar** es presentarle a tu codigo las variables que deseas utilizar y se hace de la siguiente manera:
+
+```
+palabraReservada nombreDeLaVariable;
+```
+
+Veamos algunos ejemplos, *abre tu consola y comenzemos*
+
+escribre lo siguiente:
+
+
+```javascript
+var javascript;
+```
+
+
 
 # Asignando valores en JavaScript
 
@@ -33,13 +53,6 @@ frutas = [pera,manzana,naranja] // Le asigno a frutas el arreglo que contiene el
 
 ```
 
-## ¿Como declarar variables en JavaScript?
-
-**Declarar** es presentarle a tu codigo las variables que deseas utilizar, luego ya puedes llamarlas, pero es necesario asignarles un valor, si hablamos de manera general esta seria la estructura que debe llevar:
-
-```
-palabraReservada nombreDeLaVariable = valor
-```
 
 ## Declaracion de Variables Usando ```var```
 
@@ -49,18 +62,32 @@ Para declarar una variable usando ```var``` basta solo escribir de esta manera:
 var curso;
 ```
 
-Luego podremos asignarle su valor: 
+Hemos declarado una variable llamada *curso*, ya javascript habra reservado espacio para guardar el valor que le asignemos.
+
+
+Pobremos asignadle un valor: 
 
 ```javascript
 curso = "JavaScript";
 
 ```
 
-O podriamos hacerlo todo en una unica *sentencia*:
+Le asignamos el valor de la derecha *javascript* a la variable de la izquierda *curso*.
+
+Pobremos llamando nuestra variable, escribre:
+
+```javascript
+curso
+
+// javascript
+```
+
+Ya tenemos nuestra declaracion de variable lista, incluso asignamos un valor.
+
+Podriamos hacerlo todo en una unica *sentencia*:
 
 ```javascript
 var curso = "JavaScript";
-
 ```
 
 Notamos que:
