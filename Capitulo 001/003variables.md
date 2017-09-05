@@ -70,6 +70,16 @@ Notamos que:
 - Colocamos el operador de *asignacion*.
 - Colocamos el valor, usamos comillas dobles ("") para asignar en este caso por ser una cadena de texto.
 
-## usando let
+## Declaración de variables usando ```let```
 
+Seguimos la misma estructura general:
+
+```javascript
+let curso = "JavaScript";
+
+```
+
+## ¿Que diferencia este metodo del anterior?
+
+Cuando usamos la palabra reservada ```let``` para declarar una variable esta tendra un *scope* local, a diferencia de ```var``` que es *global*
 
