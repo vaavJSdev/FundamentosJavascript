@@ -7,7 +7,9 @@ Tendremos la siguiente estructura:
 - Capitulo 001: Conceptos Basicos.
 
 2. Cada capitulo estara compuesto por:
-    - sub-capitulos
+    - enlaces hacia recursos multimedia (videos, imagenes) para apoyar el aprendizaje.
+    - enlaces hacia referencias de terminos empleados.
+    - sub-capitulos.
     - ejercicios propuestos.
 
 3. Cada sub-capitulo tendra:
