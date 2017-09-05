@@ -23,7 +23,7 @@ Con JavaScript podremos modificar como sea y cuanto sea nuestra pagina web (DOM)
 - Y mucho mas...
 
 # Mejora sus funciones y metodos segun el navegador donde se encuentre:
-Javascript esta formado por varios elementos (mas adelante se profundizara) el nucleo que es ECMAScript, el DOM (la pagina web), el BOM (navegador) y las APIs que este le provee al lenguaje, ¿que quiere decir?:
+Javascript esta formado por varios elementos (mas adelante se profundizara) el nucleo que es [ECMAScript!](http://www.ecma-international.org/ecma-262/), el DOM (la pagina web), el BOM (navegador) y las APIs que este le provee al lenguaje, ¿que quiere decir?:
 
 Segun el navegador donde ejecutemos el codigo tendremos distintas funciones que podremos utilizar, por ejemplo en Google Chrome podriamos:
 
@@ -48,7 +48,7 @@ Asi es, JavaScript me lo recomendo un amigo, pero no fue para conocerlo, porque 
 
 El me invito a aprender desde las bases el lenguaje y saber que:
 
-- Puedo hacer que JavaScript me consiga datos al momento evitando recargar la pagina usando: Ajax (http://api.jquery.com/jquery.ajax/)
+- Puedo hacer que JavaScript me consiga datos al momento evitando recargar la pagina usando: [Ajax!](http://api.jquery.com/jquery.ajax/)
 - Puedo hacer juegos de forma nativa, o podria usar:
 - [Pixijs!](http://www.pixijs.com/)
 - [Phaser!](https://phaser.io/)
