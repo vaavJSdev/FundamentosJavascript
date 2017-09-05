@@ -9,6 +9,8 @@ Tendremos la siguiente estructura:
 - Capitulo 003: Etcetera.
 
 2. Cada capitulo estara compuesto por:
+    - indice de contenidos
+    > 000indice.md
     - enlaces hacia recursos multimedia (videos, imagenes) 
     > 000recursos.md
     - documento con terminos empleados:
@@ -23,3 +25,7 @@ Tendremos la siguiente estructura:
     - practicas guiadas.
     - ejercicios propuestos.
     > 000ejerciciosPropuestos.
+
+# Sin mas nada que decir... 
+
+[A DARLE CAÑA!](https://github.com/vaavJSdev/FundamentosJavascript/blob/master/Capitulo%20001/000indice.md)
