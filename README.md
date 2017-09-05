@@ -19,9 +19,19 @@ Con JavaScript podremos modificar como sea y cuanto sea nuestra pagina web:
 - Quieres que al pulsar click, pasar el puntero, pulsar una tecla, seleccionar/deseleccionar un elemento, pase algo *magicamente*, quien dijo miedo.
 
 # Mejora sus funciones y metodos segun el navegador donde se encuentre:
-Javascript esta formado por varios elementos (mas adelante se profundizara) el nucleo que es ECMAScript, el DOM (pagina web), el BOM (navegador) y las APIs que este le provee el lenguaje:
+Javascript esta formado por varios elementos (mas adelante se profundizara) el nucleo que es ECMAScript, el DOM (la pagina web), el BOM (navegador) y las APIs que este le provee el lenguaje, es decir, que segun en el navegador en el que se ejecute el codigo tendremos mas/menos funciones que podremos utilizar, entre algunas de ellas:
 
+Google Chrome:
 
+- Podriamos crear, modificar, actualizar y editar archivos locales con **fileSystem**.
+- Conectar dispositvos por bluethoot con **bluethoot**.
+- Crear atajos de teclados que activen eventos en nuestra web, (control+alt+f4 no cerrara mas tus pestañas ;)), usando **commands**.
+- Podriamos reconocer los tipos de archivos que se manejen en la web con **extensionTypes**
+- y mas...
+
+Mozilla Firefox:
+
+- 
 
 
 # Me lo recomendo un amigo:
@@ -38,4 +48,6 @@ El me invito a aprender desde las bases el lenguaje y saber que:
 
 ¿Y que son todos ellos?, una escasa recopilacion de frameworks que conozco, todos gratuitos y que con una buena base de conocimiento de JavaScript podras manejar.
 
+Y aun hay mas: 
+[![N|Solid](https://developer.mozilla.org/en-US/)](https://developer.mozilla.org/en-US/docs/Web/API)
 Sin mas nada que decir, te invito a vistiar este Curso de fundamentos de JavaScript, mas facil que pelar una mandarina.
