@@ -9,21 +9,30 @@ Tendremos la siguiente estructura:
 - Capitulo 003: Etcetera.
 
 2. Cada capitulo estara compuesto por:
-    - indice de contenidos
+    - Indice de contenidos
     > 000indice.md
-    - enlaces hacia recursos multimedia (videos, imagenes) 
+    
+    - Enlaces hacia recursos multimedia interes
     > 000recursos.md
-    - documento con terminos empleados:
+    
+    - Glosario con terminos empleados:
     > 000glosario.md
-    - sub-capitulos.
-    - ejercicios propuestos.
+    
+    - Sub-capitulos.
+    > 001nombreCorto.md
+    > 002nombreAunMasCorto.md
+    
+    - Ejercicios propuestos.
     > 000ejerciciosPropuestos
 
 3. Cada sub-capitulo tendra:
-    - teoria referente.
-    - ejemplos en codigo.
-    - practicas guiadas.
-    - ejercicios propuestos.
+    - Teoria referente al tema.
+    
+    - Ejemplos en codigo.
+    
+    - Practicas guiadas.
+    
+    - Ejercicios propuestos.
     > 000ejerciciosPropuestos.
 
 # Sin mas nada que decir... 
