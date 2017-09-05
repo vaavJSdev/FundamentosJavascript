@@ -11,10 +11,12 @@ En JavaScript deciamos que las variables eran dinamicas y debilmente tipadas per
 ## ¿Que es una variable?:
 
 > Una variable es un espacio de memoria reservado para almacenar un valor que corresponde a determinado tipo de dato. Este valor puede cambiar, y segun el tipo de dato contenido le asignara un tipo a la variable que le contiendo.
+> De manera mas sencilla, *una variable es un contenedor de un valor que puede variar*.
 
 Ahora veamos que es una constante
 
 > Una constante al igual que la variable es un espacio de memoria reservado para almacenar un valor, la unica diferencia es que este no podra ser modificado durante la ejecución del codigo, una vez asignado un valor, este se mantendra hasta que el codigo finalice su ejecucion.
+> De manera mas sencilla, *una constante es un contenedor de un valor que no puede variar*.
 
 ## ¿Como declarar variables en JavaScript?
 
@@ -81,9 +83,17 @@ Podriamos hacerlo todo en una unica *sentencia*:
 var curso = "JavaScript";
 ```
 
-Notamos que:
+**Notamos que**:
 
 - Se coloca la *palabra reserverda* en la izquierda de la *sentencia*.
+
+> Una palabra reservada son terminos que utiliza el lenguaje para acceder a funciones especificas, debemos evitar declarar variables que tengan el mismo nombre, ya que el funcionamiento podria fallar, o por el contrario podriamos *opacar* las parabras reservadas.
+
 - Escribimos el nombre de la variable *curso* en este caso.
+
+> El nombre de la variable puede ser galactico, elmejor123, juan25, numeroEspecial, PrImErNuMeRo, cualquier nombre tomando en cuenta que:
+> - No se puede empezar con un numero -> 5Casas = "La roja, la azul, la verde, la amarilla, la naranja"
+> - Podemos comenzar nuestro nombre de variable unicamente con estos dos caracteres especiales: **_** guion bajo, **$** signo de dolar.
+
 - Colocamos el operador de *asignacion*.
 - Colocamos el valor, usamos comillas dobles ("") para asignar en este caso por ser una cadena de texto.
