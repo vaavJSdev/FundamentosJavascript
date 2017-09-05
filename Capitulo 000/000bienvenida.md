@@ -22,8 +22,12 @@ Tengo que terminar de estudiar sobre Objetos
 
 ¿Me captas?.
 
-# 
+# Tomemos nota, cuaderno y lapiz please...
+
+Al escribir la fuerza que aplicamos en el boligrafo junto a la concentracion en el contenido hara que retengamos mas la informacion que estabamos recibiendo, ademas de que ayudara para luego repasar.
 
 # Contribuyamos
 
 Cualquier horror ortografico, sugerencia de redaccion y aporte al material vienvenido sea¿
+
+Ya podemos continuar: [Siguiente!](https://tomato-timer.com/)
