@@ -17,14 +17,20 @@ Es un lenguaje de programacion de alto nivel, multiplataforma, pequeño y livian
 - **Imperativo**: Ejecuta de manera secuencial las sentencias que estan en el codigo de arriba hacia abajo, utiliza condicionales y bucles para controlar el flujo del programa.
 
 - **Debilmente tipado**: El tipo de variable se asocia al valor que se le asigna a la variable y no a ella, es decir no veremos:
-   ```entero numero = 5;
-    cadena mensaje = "JavaScript";```
+
+   ```
+   entero numero = 5
+   cadena mensaje = "JavaScript"
+   arreglo compras = [1,2,3,4]
+   ```
 
 - **Tipado Dinamico**: Los valores de las variables pueden cambiar y traer consigo un cambio al tipo de variable:
 
-    ```let numero = 5; // Es un numero
+    ```
+    let numero = 5; // Es un numero
     numero = "Soy un cinco"; // Es una cadena de caracteres
-    numero = {yo:"un cinco"} // Ahora un objeto.```
+    numero = {yo:"un cinco"} // Ahora un objeto.
+    ```
     
 - **Esta complementado**:
 **1) Por el DOM**: Como JavaScript reside en el navegador tendremos la capacidad de manipular todo el DOM(Document Object Model) a nuestro antojo, es decir, crear; modificar; y eliminar elementos HTML de nuestra web.
