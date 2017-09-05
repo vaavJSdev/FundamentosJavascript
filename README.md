@@ -74,6 +74,6 @@ Si asi lo deseas, puedes seguir y contribuir (opiniones y consejos) a este Curso
 
 Citando a mi amigo "Alejandro" de [ProgramacionATS!](https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q)
 
-#Si lo puedes imaginar, lo puedes programar
+# Si lo puedes imaginar, lo puedes programar
 
 [Empezar a Aprender!](https://github.com/vaavJSdev/FundamentosJavascript/blob/master/Capitulo%20000/000bienvenida.md)
