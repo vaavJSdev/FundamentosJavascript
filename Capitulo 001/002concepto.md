@@ -36,3 +36,15 @@ Es un lenguaje de programacion de alto nivel, multiplataforma, pequeño y livian
 **1) Por el DOM**: Como JavaScript reside en el navegador tendremos la capacidad de manipular todo el DOM(Document Object Model) a nuestro antojo, es decir, crear; modificar; y eliminar elementos HTML de nuestra web.
 
 **2) Por el BOM**: Como JavaScript se ejecuta en un navegador tendremos la capacidad de abrir pestañas, mostrar ventanas emergentes, imprimir nuestra web, y acceder a las funciones que traiga el navegador.
+
+# Ahora que ya sabes quien es conozcamoslo
+
+1. Pulsa ```f12``` .
+2. Te saldra la consola tu mejor amiga ![consola](https://k60.kn3.net/C012466F6.jpg)
+3. Escribe lo siguiente:
+
+```console.log("Hola Mundo!");```
+4. Pulsa ```enter```
+5. Ya has creado tu primer programa en JavaScript, Felicidades!!!, *¿facil no?*
+
+[Ahora vamos con lo bueno!](https://github.com/vaavJSdev/FundamentosJavascript/blob/master/Capitulo%20001/003datos.md)
