@@ -50,30 +50,30 @@ El me invito a aprender desde las bases el lenguaje y saber que:
 
 - Puedo hacer que JavaScript me consiga datos al momento evitando recargar la pagina usando: Ajax (http://api.jquery.com/jquery.ajax/)
 - Puedo hacer juegos de forma nativa, o podria usar:
-- Pixijs (http://www.pixijs.com/)
-- Phaser (https://phaser.io/)
-- MelonJS (http://melonjs.org/)
-- PlayCanvas (https://playcanvas.com/)
-- BabylonJS (https://www.babylonjs.com/)
+- [Pixijs!](http://www.pixijs.com/)
+- [Phaser!](https://phaser.io/)
+- [MelonJS!](http://melonjs.org/)
+- [PlayCanvas!](https://playcanvas.com/)
+- [BabylonJS!](https://www.babylonjs.com/)
 - Puedo conectarme a base de datos no relacionales (noSQL) usando:
-- mongoDB (https://www.mongodb.com/es)
-- CouchDB (http://couchdb.apache.org/)
-- Amazon DynamoDB (https://aws.amazon.com/es/dynamodb/)
+    - [mongoDB!](https://www.mongodb.com/es)
+    - [CouchDB!](http://couchdb.apache.org/)
+    - [Amazon DynamoDB!](https://aws.amazon.com/es/dynamodb/)
 - Puedo crear y manejar un servidor con: nodejs (https://nodejs.org/es/)
 - Puedo manejar mas rapida y facilmente a javascript con: jQuery (https://jquery.com/)
-- Puedo manejar crear interfaces para los usuarios con herramientas desarrolladas por Facebook con: React(https://facebook.github.io/react/)
-- Puedo darle esteroides a mi HTML, consiguiendo asi patrones de diseño y mejoras a las etiquetas HTML con: AngularJS(https://angularjs.org/)
-- y para de contar mi amigo.
+- Puedo manejar crear interfaces para los usuarios con herramientas desarrolladas por Facebook con: [React!](https://facebook.github.io/react/)
+- Puedo darle esteroides a mi HTML, consiguiendo asi patrones de diseño y mejoras a las etiquetas HTML con: [AngularJS!](https://angularjs.org/)
+- y pare de contar mis queridos amigos.
 
 *¿Y que son todos ellos?*, una escasa recopilacion de frameworks que conozco, todos gratuitos y que con una buena base de conocimiento de JavaScript podras manejar.
-Y son demasiados, aqui una lista : (https://developer.mozilla.org/en-US/docs/Web/API)
+Y son demasiados, aqui una lista : [Mozilla!](https://developer.mozilla.org/en-US/docs/Web/API)
 
 Sin mas nada que decir, te invito a conocer, aprender y enamorarte a primer **scope** de JavaScript.
 
 Si asi lo deseas, puedes seguir y contribuir (opiniones y consejos) a este Curso de fundamentos de JavaScript, "mas facil que pelar una mandarina" por Victor Alvarado, Venezuela 2017.
 
-Citando a mi amigo "Alejandro" de ProgramacionATS(https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q)
+Citando a mi amigo "Alejandro" de [ProgramacionATS!](https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q)
 
 #Si lo puedes imaginar, lo puedes programar
 
-[Empezar a Aprender!](https://github.com/vaavJSdev/FundamentosJavascript/edit/master/Capitulo%20000/000bienvenida.md)
+[Empezar a Aprender!](https://github.com/vaavJSdev/FundamentosJavascript/blob/master/Capitulo%20000/000bienvenida.md)
