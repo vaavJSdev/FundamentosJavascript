@@ -45,20 +45,20 @@ palabraReservada nombreDeLaVariable = valor
 
 Para declarar una variable usando ```var``` basta solo escribir de esta manera:
 
-```
+```javascript
 var curso;
 ```
 
 Luego podremos asignarle su valor: 
 
-```
+```javascript
 curso = "JavaScript";
 
 ```
 
 O podriamos hacerlo todo en una unica *sentencia*:
 
-```
+```javascript
 var curso = "JavaScript";
 
 ```
