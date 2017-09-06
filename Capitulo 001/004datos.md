@@ -4,11 +4,11 @@ JavaScript posee dos tipos de datos primitivos y complejos o referenciados:
 
 # Primitivos:
 
-- *string*.
-- *number*.
-- *boolean*.
-- *null*.
-- *undefined*.
+- **string**.
+- **number**.
+- **boolean**.
+- **null**.
+- **undefined**.
 
 # Complejos:
 Son una librería estándar de objetos, todos provienen del Objeto ```Object```
@@ -27,8 +27,3 @@ Son una librería estándar de objetos, todos provienen del Objeto ```Object```
 - **String**.
 - **Number**.
 - **Boolean**.
-.
-
-#Profundizando cada uno:
-
-#Tipo de dato: "string"
